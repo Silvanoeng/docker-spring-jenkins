@@ -1,13 +1,13 @@
-package com.example.clinica_odontologica_2;
+package com.example.arquivoTeste;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ClinicaOdontologica2Application {
+public class ArquivoTesteApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ClinicaOdontologica2Application.class, args);
+		SpringApplication.run(ArquivoTesteApplication.class, args);
 	}
 
 }
